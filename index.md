@@ -1,7 +1,4 @@
----
----
-
-@import "";
+@import "/assets/css/style.scss";
 
 ## Welcome to GitHub Pages
 
